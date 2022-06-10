@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+
+
+img{
+  display: block;
+  margin: 0 auto;
+  height:200px;
+}
+
+
+h1 {
+  color:midnightblue
+}
+
+h4  {
+  color:midnightblue;
+}
+
